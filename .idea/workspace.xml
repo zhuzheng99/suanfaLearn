@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list id="ac847bd9-9968-41d2-af32-4429953d5523" name="Revert &quot;Revert &quot;[Feat]: 算法学习第三天,关于归并排序,以及快速排序算法&quot;&quot;" comment="Revert &quot;Revert &quot;[Feat]: 算法学习第三天,关于归并排序,以及快速排序算法&quot;&quot;&#10;&#10;This reverts commit bb22e99" />
+    <list default="true" id="cf0f6de7-95e0-41d8-849e-c9858e7f4fa5" name="Default" comment="[Feat]: 算法学习">
+      <change beforePath="$PROJECT_DIR$/src/com/company/suanfaday1" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/suanfaday1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/suanfaday2" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/suanfaday2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/suanfaday3" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/suanfaday3" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/suanfa2$BoboSort.ic" NAME="BoboSort Coverage Results" MODIFIED="1594977022395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.company.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GetMinStack.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday2/GetMinStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="741">
+              <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetMax.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday2/GetMax.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code01_MergeSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday3/Code01_MergeSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2413">
+              <caret line="127" selection-start-line="127" selection-end-line="143" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code03_PartitionAndQuickSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday3/Code03_PartitionAndQuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="151" column="9" lean-forward="true" selection-start-line="151" selection-start-column="9" selection-end-line="151" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code01_Comparator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday4/Code01_Comparator.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="PartitionAndQuickSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday3/PartitionAndQuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SmallSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday3/SmallSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="433">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>add</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>pushValue</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/com/company/suanfaday2" />
+    <option name="RESET_MODE" value="SOFT" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/BoboSort.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/company/suanfaday2/ReserveList.java" />
+        <option value="$PROJECT_DIR$/src/com/company/suanfaday2/MyStackAndQuery.java" />
+        <option value="$PROJECT_DIR$/src/com/company/suanfaday2/test.java" />
+        <option value="$PROJECT_DIR$/src/com/company/suanfaday2/TwoStatckImplementQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/company/suanfaday2/TwoQueueImplementStack.java" />
+        <option value="$USER_HOME$/Desktop/algorithmbasic2020-master/algorithmbasic2020-master/src/class02/Code08_GetMax.java" />
+        <option value="$PROJECT_DIR$/src/com/company/suanfaday3/Code01_MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/com/company/suanfaday3/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/com/company/suanfaday3/Code02_SmallSum.java" />
+        <option value="$PROJECT_DIR$/src/com/company/suanfaday3/Code03_PartitionAndQuickSort.java" />
+        <option value="$PROJECT_DIR$/src/com/company/suanfaday3/SmallSun.java" />
+        <option value="$PROJECT_DIR$/src/com/company/suanfaday3/SmallSum.java" />
+        <option value="$PROJECT_DIR$/src/com/company/suanfaday1/BoboSort.java" />
+        <option value="$PROJECT_DIR$/src/com/company/suanfaday2/GetMax.java" />
+        <option value="$PROJECT_DIR$/src/com/company/suanfaday2/GetMinStack.java" />
+        <option value="$PROJECT_DIR$/src/com/company/suanfaday3/VolatileDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/company/suanfaday3/PartitionAndQuickSort.java" />
+        <option value="$PROJECT_DIR$/src/com/company/suanfaday4/Code01_Comparator.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="suanfa2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suanfa2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="suanfa2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suanfa2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="suanfa2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suanfa2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="suanfa2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suanfa2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="suanfaday2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="suanfa2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suanfa2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="suanfaday3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="suanfa2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suanfa2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="suanfaday4" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/JUC-master/JUC-master" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\公司项目\suanfa2\src\com\company\suanfaday4" />
+      <recent name="D:\公司项目\suanfa2\src\com\company\suanfaday3" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PartitionAndQuickSort">
+    <configuration name="Code01_MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.suanfaday3.Code01_MergeSort" />
+      <module name="suanfa2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.suanfaday3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="GetMinStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.suanfaday2.GetMinStack" />
+      <module name="suanfa2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.suanfaday2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.suanfaday3.MergeSort" />
+      <module name="suanfa2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.suanfaday3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PartitionAndQuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.suanfaday3.PartitionAndQuickSort" />
+      <module name="suanfa2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.suanfaday3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SmallSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.suanfaday3.SmallSum" />
+      <module name="suanfa2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.suanfaday3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list>
+      <item itemvalue="Application.GetMinStack" />
+      <item itemvalue="Application.MergeSort" />
+      <item itemvalue="Application.Code01_MergeSort" />
+      <item itemvalue="Application.SmallSum" />
+      <item itemvalue="Application.PartitionAndQuickSort" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PartitionAndQuickSort" />
+        <item itemvalue="Application.SmallSum" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.Code01_MergeSort" />
+        <item itemvalue="Application.GetMinStack" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf0f6de7-95e0-41d8-849e-c9858e7f4fa5" name="Default" comment="" />
+      <created>1594976872366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594976872366</updated>
+      <workItem from="1594976875420" duration="2618000" />
+      <workItem from="1595326924548" duration="125000" />
+      <workItem from="1595988835325" duration="3626000" />
+      <workItem from="1596075642129" duration="7666000" />
+      <workItem from="1596161022538" duration="2871000" />
+      <workItem from="1596177453505" duration="5518000" />
+      <workItem from="1596420052870" duration="585000" />
+      <workItem from="1596521183126" duration="1929000" />
+      <workItem from="1596531506090" duration="736000" />
+      <workItem from="1596594058399" duration="11331000" />
+      <workItem from="1596679473460" duration="645000" />
+      <workItem from="1596684153428" duration="10171000" />
+      <workItem from="1596705752919" duration="19009000" />
+      <workItem from="1597027541395" duration="6382000" />
+    </task>
+    <task id="LOCAL-00001" summary="[Feat]: 算法学习第一天关于冒泡排序,选择排序,插入排序">
+      <created>1596788375246</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596788375246</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[Feat]: 算法学习第二天,关于栈和队列,和递归的思想">
+      <created>1596788905088</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596788905088</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[Feat]: 算法学习第三天,关于归并排序,以及快速排序算法">
+      <created>1596791444732</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596791444732</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[Feat]: 算法学习第一天关于冒泡排序,选择排序,插入排序">
+      <created>1596791636511</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596791636511</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[Feat]: 算法学习第二天,关于栈和队列,和递归的思想">
+      <created>1596791651058</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596791651058</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[Feat]: 算法学习第三天,关于归并排序,以及快速排序算法">
+      <created>1596791671196</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596791671196</updated>
+    </task>
+    <task id="LOCAL-00007" summary="[Feat]: 算法学习第一天:冒泡排序,插入排序,选择排序等">
+      <created>1596791943627</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1596791943627</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Revert &quot;[Feat]: 算法学习第二天,关于栈和队列,和递归的思想&quot;&#10;&#10;This reverts commit 704ecb8">
+      <created>1596793502919</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1596793502919</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Revert &quot;[Feat]: 算法学习第三天,关于归并排序,以及快速排序算法&quot;&#10;&#10;This reverts commit 5c6eb87">
+      <created>1596793515340</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1596793515340</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Revert &quot;Revert &quot;[Feat]: 算法学习第二天,关于栈和队列,和递归的思想&quot;&quot;&#10;&#10;This reverts commit 16ebeb0">
+      <created>1596793535809</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1596793535809</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="73212000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="8" />
+      <window_info anchor="bottom" id="Gerrit" order="16" weight="0.32897604" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="JRebel Console" order="14" side_tool="true" weight="0.3297062" />
+      <window_info anchor="right" id="Maven Projects" order="10" weight="0.32995737" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="13" />
+      <window_info anchor="bottom" id="MyBatis Log" order="15" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info id="Structure" order="1" sideWeight="0.50272036" side_tool="true" weight="0.17270789" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.39869282" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4989339" weight="0.32897604" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32897604" />
+      <window_info anchor="right" id="Codota" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4989339" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.21895425" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" visible="true" weight="0.32897604" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49727964" visible="true" weight="0.17430703" />
+      <window_info id="JRebel" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="LONG_EDGES_VISIBLE" value="true" />
+              <option name="SHOW_ROOT_NAMES" value="true" />
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection>
+                  <UserGroup>
+                    <option name="users">
+                      <list>
+                        <option value="me" />
+                      </list>
+                    </option>
+                  </UserGroup>
+                </collection>
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="HIGHLIGHTERS">
+                <map>
+                  <entry key="MERGE_COMMITS" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[Feat]: 算法学习第一天关于冒泡排序,选择排序,插入排序" />
+    <MESSAGE value="[Feat]: 算法学习第二天,关于栈和队列,和递归的思想" />
+    <MESSAGE value="[Feat]: 算法学习第三天,关于归并排序,以及快速排序算法" />
+    <MESSAGE value="[Feat]: 算法学习第一天:冒泡排序,插入排序,选择排序等" />
+    <MESSAGE value="Revert &quot;[Feat]: 算法学习第二天,关于栈和队列,和递归的思想&quot;&#10;&#10;This reverts commit 704ecb8" />
+    <MESSAGE value="Revert &quot;[Feat]: 算法学习第三天,关于归并排序,以及快速排序算法&quot;&#10;&#10;This reverts commit 5c6eb87" />
+    <MESSAGE value="Revert &quot;Revert &quot;[Feat]: 算法学习第二天,关于栈和队列,和递归的思想&quot;&quot;&#10;&#10;This reverts commit 16ebeb0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Revert &quot;[Feat]: 算法学习第二天,关于栈和队列,和递归的思想&quot;&quot;&#10;&#10;This reverts commit 16ebeb0" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Desktop/algorithmbasic2020-master/algorithmbasic2020-master/src/class03/Code01_MergeSort.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/suanfaday3/PartitionAndQuickSort.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="28" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday1/BoboSort.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday2/ReserveList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/algorithmbasic2020-master/algorithmbasic2020-master/src/class02/Code03_DoubleEndsQueueToStackAndQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1539">
+          <caret line="88" column="31" selection-start-line="88" selection-start-column="31" selection-end-line="88" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday2/MyStackAndQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday1/BoboSort.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday2/ReserveList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/algorithmbasic2020-master/algorithmbasic2020-master/src/class02/Code03_DoubleEndsQueueToStackAndQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1539">
+          <caret line="88" column="31" selection-start-line="88" selection-start-column="31" selection-end-line="88" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday2/MyStackAndQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday1/BoboSort.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday2/ReserveList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2318">
+          <caret line="126" column="42" selection-start-line="126" selection-start-column="42" selection-end-line="126" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/algorithmbasic2020-master/algorithmbasic2020-master/src/class02/Code03_DoubleEndsQueueToStackAndQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday1/BoboSort.java" />
+    <entry file="file://$USER_HOME$/Desktop/algorithmbasic2020-master/algorithmbasic2020-master/src/class02/Code02_DeleteGivenValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday2/ReserveList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="106" column="29" selection-start-line="106" selection-start-column="29" selection-end-line="106" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday1/BoboSort.java" />
+    <entry file="file://$USER_HOME$/Desktop/algorithmbasic2020-master/algorithmbasic2020-master/src/class02/Code01_ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday2/ReserveList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="54" column="6" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday1/BoboSort.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Test.java" />
+    <entry file="file://$USER_HOME$/Desktop/algorithmbasic2020-master/algorithmbasic2020-master/src/class01/Code04_BSExist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="813">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/java/03代码/springdata_es_one/src/main/java/com/itheima/SpringdataEsOneApplication.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Test.java" />
+    <entry file="file://$USER_HOME$/Desktop/algorithmbasic2020-master/algorithmbasic2020-master/src/class02/Code01_ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-285">
+          <caret line="93" column="9" lean-forward="true" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/algorithmbasic2020-master/algorithmbasic2020-master/src/class02/Code02_DeleteGivenValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/algorithmbasic2020-master/algorithmbasic2020-master/src/class02/Code03_DoubleEndsQueueToStackAndQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1539">
+          <caret line="88" column="31" selection-start-line="88" selection-start-column="31" selection-end-line="88" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday2/MyStackAndQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java_jdk/jdk1.8/jre/lib/rt.jar!/java/util/Stack.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/algorithmbasic2020-master/algorithmbasic2020-master/src/class02/Code06_TwoStacksImplementQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" column="29" lean-forward="true" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/algorithmbasic2020-master/algorithmbasic2020-master/src/class02/Code05_GetMinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="78" column="5" lean-forward="true" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java_jdk/jdk1.8/jre/lib/rt.jar!/java/util/Queue.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/algorithmbasic2020-master/algorithmbasic2020-master/src/class02/Code07_TwoQueueImplementStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="977">
+          <caret line="63" column="31" lean-forward="true" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday2/TwoQueueImplementStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/algorithmbasic2020-master/algorithmbasic2020-master/src/class02/Code08_GetMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/algorithmbasic2020-master/algorithmbasic2020-master/src/class03/Code01_MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1607" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday3/SmallSun.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday3/Code02_SmallSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday1/BoboSort.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday3/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="130" column="5" lean-forward="true" selection-start-line="130" selection-start-column="5" selection-end-line="130" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday2/ReserveList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday2/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday2/TwoStatckImplementQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="854">
+          <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/algorithmbasic2020-master/algorithmbasic2020-master/src/class03/Code02_SmallSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday2/GetMinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday3/Code01_MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2413">
+          <caret line="127" selection-start-line="127" selection-end-line="143" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday3/SmallSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday3/PartitionAndQuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday3/Code03_PartitionAndQuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="151" column="9" lean-forward="true" selection-start-line="151" selection-start-column="9" selection-end-line="151" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday4/Code01_Comparator.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/suanfaday2/GetMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>untitled104</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
